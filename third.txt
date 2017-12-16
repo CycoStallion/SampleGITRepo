@@ -1,4 +1,0 @@
-This is the third file to commit.
-The third file is changed too at 14:37 16-12-2017
-
-Added line at row 4
